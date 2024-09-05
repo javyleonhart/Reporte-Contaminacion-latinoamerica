@@ -1,6 +1,6 @@
 # Contaminación del medio ambiente, calidad del aire y cambio climático en Latinoamérica
 
-![](imgs\img1.jpeg)
+![](imgs/img1.jpeg)
 
 ## Descripción del tema
 
