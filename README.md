@@ -1,6 +1,6 @@
 # Contaminación del medio ambiente, calidad del aire y cambio climático en Latinoamérica
 
-![](imgs\img1.jpeg)
+![](imgs/img1.jpeg)
 
 ## Descripción del tema
 
@@ -56,3 +56,19 @@ En esta solapa vemos el cambio que hubo entre dos periodos especificados, si est
 
 ![](imgs/dashboard3.png)
 
+## Tecnología utilizada
+
+* SQL Server
+* SSMS
+* Power BI
+* Microsoft Word
+* Mural
+
+## Elementos del repositorio
+
+* SQLQuerys.sql: script de T-SQL donde se crea la base de datos, se cargan los csv y se les hace un ligero tratamiento para cargarlos dentro de Power BI
+* DER/Esquema: diagrama de entidad/relacion y esquema de la base de datos desarrollado
+* Documentacion respaldatora: PDF donde se documenta detalladamente la información sobre el desarrollo del proyecto
+* LA_daily_air_quality/LA_daily_climate: datasets con los que se trabajó el proyecto
+* Yanez_LAclimate_dashboard.pbix: dashboard interactivo desarrollado para la exposición de los datos
+* Carpeta imgs: imagenes utilizadas para este readme
